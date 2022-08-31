@@ -1,0 +1,22 @@
+Body {
+    font-family: 'Times New Roman', serif;
+    line-height: normal;
+    background-color: aliceblue;
+    color: black;
+    margin: auto;
+    width: 980px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+
+
+
+}
+
+h2 {
+    text-align: left;
+    font-size: 25px;
+
+}
